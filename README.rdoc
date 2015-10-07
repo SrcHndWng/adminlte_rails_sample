@@ -1,0 +1,16 @@
+== README
+
+This is a sample application with AdminLTE.
+
+AdminLTE is open source view template for admin dashboards and control panels.
+See more https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html
+
+
+* client
+    - AdminLTE
+    - anothor client side applications
+    - Sorry, This sample works only in your local, because I write URLs "localhost〜".
+
+* server
+    - API with Ruby on Rails
+

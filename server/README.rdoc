@@ -1,0 +1,11 @@
+== About
+
+This is a Sample Authentication API Appliction with Ruby on Rails, sorcery.
+
+== Environments
+
+* Ruby 2.1.2
+
+* Rails 4.2.1
+
+* sorcery 0.9.1
